@@ -1,0 +1,14 @@
+{
+  "os_version": 0.1.0,
+  "version": 0.0.1,
+  "body":{
+    1: {
+      "name": "MetaTrader 5",
+      "description":"MetaTrader 5 Description Here",
+      "Icon":"icon_here",
+      "version": 2.4.1,
+      "searchPatterns": ["mt5", "metatrader5", "m5", "mql5", "meta5", "trader5"],
+      "script":["bash", "#bash_script_here"]
+    }
+  }
+}
